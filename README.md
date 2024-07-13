@@ -1,5 +1,3 @@
-# Hi , I'm Ali Heidari 
-===
-<p>
+# Hi , I'm Ali Heidari 👋
 
-</p>
+
