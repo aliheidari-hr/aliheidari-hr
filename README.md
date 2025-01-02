@@ -3,5 +3,5 @@
 ### Interested in the field of frontend.
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,redux,react,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,redux,react,git,ts)](https://skillicons.dev)
 
