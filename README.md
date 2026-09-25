@@ -2,67 +2,85 @@
 
 # Ali Heidari
 
-### Frontend Developer · Building interfaces that feel as good as they look
+### Frontend Developer
 
-<p>
-  I turn ideas into responsive, thoughtful web experiences.<br/>
-  My focus is on clean UI, smooth interactions, and code that stays easy to work with.
-</p>
+I build product interfaces that make complex workflows feel simple.
 
-<p>
-  <a href="#-toolkit"><img src="https://img.shields.io/badge/Explore%20my%20toolkit-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Explore my toolkit" /></a>
-  <a href="#-what-i-care-about"><img src="https://img.shields.io/badge/What%20I%20care%20about-111827?style=for-the-badge&logo=figma&logoColor=white" alt="What I care about" /></a>
-</p>
+From live streaming and operations dashboards to commerce experiences, I work with React, TypeScript, and modern UI tools to create responsive, practical applications.
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,git&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux and Git" />
 
 </div>
 
 ---
 
-### 👋 A little about me
+### Selected frontend work
 
-I'm a frontend developer who enjoys the space where design meets engineering. I like building interfaces that are clear, fast, and comfortable to use—from the first layout to the final interaction.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```ts
-const ali = {
-  role: "Frontend Developer",
-  focus: ["UI development", "responsive design", "user experience"],
-  stack: ["React", "TypeScript", "JavaScript", "CSS"],
-  mindset: "Keep learning. Keep building. Keep improving.",
-};
-```
+**📡 Streaming platform**
 
-### 🧰 Toolkit
+Frontend for a live streaming product with a broadcast studio, viewing experience, profile, and learning pages.
 
-<div align="center">
+`React` · `TypeScript` · `WebRTC` · `HLS` · `Tailwind CSS`
 
-**Core**
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React" />
+**🚚 Sabzmand ecosystem**
 
-**Styling & state**
+Connected client and driver interfaces plus an operations dashboard with maps, driver monitoring, and live activity views.
 
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,redux&theme=dark" alt="Tailwind CSS, Bootstrap, Redux" />
+`React` · `TypeScript` · `Capacitor` · `Maps` · `React Query`
 
-**Workflow**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+**🍽️ Restaurant experience**
 
-</div>
+Customer-facing menu, product discovery, cart and checkout, paired with a management panel for orders and products.
 
-### ✨ What I care about
+`React` · `TypeScript` · `Tailwind CSS` · `React Query`
 
-| Experience | Craft | Growth |
-| :--- | :--- | :--- |
-| Interfaces that are intuitive and accessible | Reusable components and readable code | Learning by building and refining real projects |
+</td>
+<td width="50%" valign="top">
+
+**🧩 Enterprise app launcher**
+
+Administrative and request workflows, including user and role management and multi-step purchase forms.
+
+`React` · `TypeScript` · `Redux Toolkit` · `AG Grid`
+
+</td>
+</tr>
+</table>
+
+> These are samples of my frontend work. Repository and live demo links can be added when available.
+
+### Tools I use
+
+| Area | Technologies |
+| :--- | :--- |
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, Next.js |
+| UI | Tailwind CSS, Bootstrap, Material UI, responsive design |
+| Data & state | Redux Toolkit, TanStack Query, REST API integration |
+| Workflow | Git, Vite |
+
+### How I work
+
+- Build reusable components and clear page structures.
+- Turn feature-heavy workflows into understandable interfaces.
+- Pay attention to responsive layouts, Persian RTL experiences, and interaction details.
+- Keep improving the code as the product grows.
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
-
-Explore my repositories and feel free to start a conversation through GitHub.
-
-<sub>Thanks for stopping by 👋</sub>
+**Explore my repositories to see the work behind the interfaces.**
 
 </div>
